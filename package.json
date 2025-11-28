@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
 
-  "homepage": "https://hamdasule.github.io/pension",
+  "homepage": "https://github.com/hamdasule/pension/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
